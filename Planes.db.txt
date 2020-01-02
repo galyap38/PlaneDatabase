@@ -1,0 +1,4 @@
+45 boeing 747 68
+12 airbus A320 78
+55 comac C919 34
+35 ryanar ATR 42
